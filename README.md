@@ -1,4 +1,3 @@
 # BPR-Ai-Code
 
-join bpr club from this link
-ibeaurifule.com
+Click Strategy.ping wghadi tl9a code tma
