@@ -1,6 +1,6 @@
 # BPR-Ai-Code
 
-strategy Code ; copy from //@version=5 strategy to the end
+strategy Code ; copy from //@version=5 to the end
 
 //@version=5
 strategy("SuperTrend Swing Strategy (Long Only)", overlay=true, default_qty_type=strategy.percent_of_equity, default_qty_value=100)
